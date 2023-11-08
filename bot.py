@@ -227,3 +227,5 @@ if __name__ == "__main__":
     bot.polling()
 
 conn.close()
+
+#sosal
